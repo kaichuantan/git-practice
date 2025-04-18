@@ -1,0 +1,2 @@
+Learning git is fun!
+Git tracks all my changes
